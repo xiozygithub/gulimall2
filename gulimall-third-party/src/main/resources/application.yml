@@ -4,8 +4,8 @@ spring:
       discovery:
         server-addr: 127.0.0.1:8848
     alicloud:
-      access-key: LTAI5tH5hSX7Xeoa6dof6Es4
-      secret-key: RLjCLLowWXCfnucFE4mzskcWxtrVyY
+      access-key: ALIYUN
+      secret-key: ALLLL
       oss:
         endpoint: oss-cn-hangzhou.aliyuncs.com
         bucket: gulimall-xiozy
@@ -18,8 +18,8 @@ spring:
         ## appcode: b0563c23aff8428c97a54d4f7f9e28e5
         signName: 阿里云短信测试
         templateCode: SMS_154950909
-        accessKeyID: LTAI5tCa8X68wHEEXA4basQS
-        accessKeySecret: eTNHuCKil71Jv0O8XixXWlHj5Kho2A
+        accessKeyID: ALIYUN
+        accessKeySecret: ALLL
 
 
   application:
